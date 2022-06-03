@@ -9,10 +9,13 @@
 ```javascript
 const nelson = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python",],
+    code: ["Javascript", "Python", "HTML". "CSS"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
-        backEnd: {
+        front End: {
+            frameworks, libraries: ["React", "MUI", "bootstrap"]
+        },
+        back End: {
             js: ["Node", "Express"],
         },
         databases: ["mongo", "MySql", "sqlite"],
