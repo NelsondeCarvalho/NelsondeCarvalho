@@ -31,7 +31,7 @@ const nelson = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
  👀 I’m interested in creating applications that bring changes to peoples life.
- 🌱 I’m currently learning to code (Full Stack) at the Univesity of Utah, while working as a support specialist for a health care institution.
+ 🌱 I’m currently working in growing my portfolio.
  💞️ I’m looking to collaborate on reserch projects that agin, affect people lives directly or inderectly.
 
 
